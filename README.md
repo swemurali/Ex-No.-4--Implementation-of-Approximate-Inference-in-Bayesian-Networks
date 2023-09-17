@@ -109,8 +109,11 @@ print('\n Approximate probabilities of {}:'.format(query_variable))
 print(query_result)
 ```
 ## Output :
+![268047758-0ccea31c-59d2-4f39-ab7c-080b933b5f0a](https://github.com/swemurali/Ex-No.-4--Implementation-of-Approximate-Inference-in-Bayesian-Networks/assets/94165336/3ab91bef-442a-4789-9f86-0e2b01934e35)
 
 ![268047748-6934c7b6-718b-452f-abca-c7c099530b17](https://github.com/swemurali/Ex-No.-4--Implementation-of-Approximate-Inference-in-Bayesian-Networks/assets/94165336/fb7540fc-713d-4bb8-bee3-4a3f38a93ed4)
+
+![268047733-4b778f59-091b-4f84-a46d-148af0583492](https://github.com/swemurali/Ex-No.-4--Implementation-of-Approximate-Inference-in-Bayesian-Networks/assets/94165336/e6d03f19-aeb0-4381-9824-3c47e2e79d36)
 
 ## Result : 
 Thus, an Approximate method of interference computation is implemented using Gibbs Sampling in Python
